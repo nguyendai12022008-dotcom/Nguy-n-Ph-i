@@ -1,0 +1,11 @@
+tên_người_dùng.github.io/
+├── index.html          ← Trang chủ
+├── gioi-thieu.html      ← Trang Giới thiệu
+├── du-an.html          ← Trang Dự án
+├── lien-he.html        ← Trang Liên hệ
+├── style.css           ← Định dạng giao diện
+├── images/             ← Thư mục chứa ảnh
+│   ├── avatar.jpg
+│   ├── du-an-1.jpg
+│   └── du-an-2.jpg
+└── cv.pdf              ← Tùy chọn: tệp CV
